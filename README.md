@@ -8,6 +8,9 @@ Before you try to use any of the posted firmware, please follow the [QMK guide o
 Once you have a proper build enviornment setup, clone the keyboards folder in this repo to the keyboards folder of your development enviornment, after doing so edit the keymap file as you'd please to accomodate your preferred layout [(QMK Guide)](https://docs.qmk.fm/#/newbs_building_firmware)
 You're now ready to [flash your firmware](https://docs.qmk.fm/#/newbs_flashing). Generally this is done with `qmk flash -kb keyboard -km default`
 
+## Pre Compiled Hex Files
+These are for use with the qmk toolbox, select the appropriate mcu and local file. Super self-explanatory
+
 ## Contributing
 
 Changes and improvements are welcome, don't hesitate to open a pr/issue but please be respectful of others
